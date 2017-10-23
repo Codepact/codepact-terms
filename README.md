@@ -1,0 +1,2 @@
+# codepact-terms
+Codepact terms
