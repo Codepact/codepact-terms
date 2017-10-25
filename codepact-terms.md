@@ -182,7 +182,7 @@ The terms in this document will take precedence over any terms in the payment in
 
 ## 26. Binding version of agreements
 
-- During execution or finalisation, agreements and documents on the Service are finalised when a user presses the 'Preview' button. Provider does not guarantee that agreements as presented on the 'Preview signing' page are identical to the agreements as they were presented during editing.
+- Provider does not guarantee that agreements as presented on the 'Preview signing' page after a user presses the "Preview" button are identical to the agreements as they were presented during editing.
 - Before signing or deploying any agreement or document created using the Service, Customer is responsible for ensuring that the version of agreement or document presented on the 'Preview signing' page reflects Customer's intentions for that agreement or document.
 - With respect to any agreement signed using the Service, the binding version of the agreement is the Executed Version.
 - To the extent of any inconsistency between the Executed Version and any other version of any agreement (for example, the text version of an agreement as it appears in emails sent to parties to agreements), the Executed Version takes precedence.
