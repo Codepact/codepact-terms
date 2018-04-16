@@ -12,6 +12,12 @@
 
 Provider will provide the Services described in this document to Customer in accordance with the Agreement.
 
+Customer must be 18 years old or over to use of the Service, unless:
+- Customer is at least 13 years old; and
+- uses the Service with the permission and supervision of a guardian.
+
+Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
+
 ## 2. Agreement duration
 
 - The Agreement will apply for the Term and will continue to renew automatically on a rolling basis for further Terms.
@@ -66,8 +72,8 @@ Provider may interrupt the provision of the Services with 5 days notice.
 
 - Provider may, at its sole discretion, render any template available through the Service obsolete and inoperable at any time.
 - Signed agreements generated from obsolete templates will remain available on the Services.
-- User acknowledges that agreements in editing mode, for which the Codepact signing process has not begun, may cease to function if the template on which they are based is rendered obsolete or inoperable.
-- User leaves documents in editing mode at user's own risk
+- Customer acknowledges that agreements in editing mode, for which the Codepact signing process has not begun, may cease to function if the template on which they are based is rendered obsolete or inoperable.
+- Customer leaves documents in editing mode at Customer's own risk
 
 ## 13. Service accounts
 
@@ -182,7 +188,7 @@ The terms in this document will take precedence over any terms in the payment in
 
 ## 26. Binding version of agreements
 
-- Provider does not guarantee that agreements as presented on the 'Preview signing' page after a user presses the "Preview" button are identical to the agreements as they were presented during editing.
+- Provider does not guarantee that agreements as presented on the 'Preview signing' page after Customer presses the "Preview" button are identical to the agreements as they were presented during editing.
 - Before signing or deploying any agreement or document created using the Service, Customer is responsible for ensuring that the version of agreement or document presented on the 'Preview signing' page reflects Customer's intentions for that agreement or document.
 - With respect to any agreement signed using the Service, the binding version of the agreement is the Executed Version.
 - To the extent of any inconsistency between the Executed Version and any other version of any agreement (for example, the text version of an agreement as it appears in emails sent to parties to agreements), the Executed Version takes precedence.
