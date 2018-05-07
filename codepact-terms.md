@@ -131,7 +131,7 @@ Provider will Keep Secret the Data and use it only for the purpose of providing 
 - Customer does not have any right to resell or sub-licence the Product IP unless the Agreement explicitly provides otherwise.
 - If Customer provides Feedback to Provider, Customer Transfers Intellectual Property Ownership in the Feedback (and any resulting enhancements to the Service) to Provider.
 - If Customer is a legal services entity, Customer may only use Codepact templates or documents to generate new agreements during the Term, provided Customer has notified Provider that it is a legal services entity in accordance with the Agreement.
-- If the Agreement is cancelled or the Term expires and is not renewed, Customer may keep any executed agreements generated using Codepact, but must cease using any substantial part of any Codepact template or Codepact-generated document to generate any new document.
+- If the Agreement is cancelled or the Term expires and is not renewed, Customer may keep any executed agreements generated using Codepact, but must cease using any intellecutal property in any Codepact template or Codepact-generated document to generate any new document.
 
 ## 21. First party claim limits
 
