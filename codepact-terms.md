@@ -1,6 +1,6 @@
 # SaaS Agreement
 
-*Codepact SaaS Agreement - 16 April 2018*
+*Codepact SaaS Agreement - 7 May 2018*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
@@ -21,7 +21,7 @@ Customer's parent or legal guardian agrees that they will supervise Customer's u
 ## 2. Agreement duration
 
 - The Agreement will apply for the Term and will continue to renew automatically on a rolling basis for further Terms.
-- The Agreement will not automatically renew for another Term if a party to the Agreement gives the other party 7 days written notice.
+- The Agreement will not automatically renew for another Term if a party to the Agreement gives the other party 7 days written notice that it does not wish to renew the Term.
 - In case of such notice the Agreement will continue to the end of the Term when notice was given, but will not roll over for a new Term.
 
 ## 3. Agreement creation
@@ -130,6 +130,7 @@ Provider will Keep Secret the Data and use it only for the purpose of providing 
 - No licence or right is granted over any intellectual property in the Product IP unless explicitly described in the Agreement.
 - Customer does not have any right to resell or sub-licence the Product IP unless the Agreement explicitly provides otherwise.
 - If Customer provides Feedback to Provider, Customer Transfers Intellectual Property Ownership in the Feedback (and any resulting enhancements to the Service) to Provider.
+- If Customer is a legal services entity, Customer may use Codepact templates or documents to generate new agreements during the Term. If the Agreement is cancelled or the Term expires and is not renewed, Customer may keep any executed agreements generated using Codepact, but must cease using any intellecutal property in any Codepact template or Codepact-generated document to generate any new document.
 
 ## 21. First party claim limits
 
