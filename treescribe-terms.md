@@ -615,7 +615,7 @@ means the party or parties identified in the Provision as owing Confidentiality 
 means the party that receives Confidential Information from the Disclosing Party.
 
 ### Service, Services
-means "Codepact", the web-based application for creating legal agreements, provided by Provider.
+means "Treescribe", the web-based application for creating legal agreements, provided by Provider.
 
 ### Term, Terms
 means a time period of 1 month.
