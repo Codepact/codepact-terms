@@ -1,6 +1,6 @@
 # SaaS Agreement
 
-*Codepact SaaS Agreement - 6 August 2018*
+*Treescriber SaaS Agreement - 6 August 2018*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
@@ -615,7 +615,7 @@ means the party or parties identified in the Provision as owing Confidentiality 
 means the party that receives Confidential Information from the Disclosing Party.
 
 ### Service, Services
-means "Treescribe", the web-based application for creating legal agreements, provided by Provider.
+means "Treescriber", the web-based application for creating legal agreements, provided by Provider.
 
 ### Term, Terms
 means a time period of 1 month.
